@@ -4,7 +4,7 @@
 ![Looker Studio](https://img.shields.io/badge/LOOKER%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-This project presents an end-to-end retail F&B sales analysis covering 9,514 transactions throughout 2023 (Jan 1 – Dec 31, 2023). The raw dataset from Kaggle was cleaned and standardized in Google Sheets using lookup and logical formulas, then visualized as an interactive dashboard in Looker Studio to uncover revenue trends, product demand, daily traffic patterns, and customer payment preferences.
+This project presents an end-to-end retail F&B sales analysis covering 9,514 transactions throughout 2023. The raw dataset from Kaggle was cleaned and standardized in Google Sheets using lookup and logical formulas, then visualized as an interactive dashboard in Looker Studio to uncover revenue trends, product demand, daily traffic patterns, and customer payment preferences.
 
 ## Looker Studio Report
 
